@@ -1,5 +1,7 @@
 # Dexter-bot
 
+http://www.coldbeer.ml/
+
 Este projeto foi desenvolvido setembro de 2019 durante o workshop sobre Dialogflow organizado pelo Emerson Silva - Superlógica e ministrado por Neto Silva, o líder de Chatbot do PJBank. 
 
 A partir do projeto desenvolvido realizei algumas modificações e hospedei o chatbot criado em um website que foi caracterizado como um atendente e foi disponibilizado para um primo que tem um comércio onde os clientes ficam aguardando atendimento no balcão e podem interagir e se divertir com Dexter, nome dado ao chatbot.
