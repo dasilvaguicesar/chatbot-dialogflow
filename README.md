@@ -16,6 +16,8 @@ A página foi hospedada no https://www.000webhost.com/
 O domínio foi registrado em https://www.freenom.com/.
 
 
-Referências:
+### Referências:
+
 https://github.com/ByNeto
+
 https://medium.com/botsbrasil/api-ai-breve-introdu%C3%A7%C3%A3o-da-plataforma-ecb2d77107a2
