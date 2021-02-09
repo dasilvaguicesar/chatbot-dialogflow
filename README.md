@@ -4,8 +4,6 @@ http://www.coldbeer.ml/
 
 Este projeto foi desenvolvido em setembro de 2019 durante um workshop sobre Dialogflow organizado pelo Emerson Silva - Superlógica e ministrado por Neto Silva - PJBank. 
 
-A partir da idéia inicial realizei algumas modificações e hospedei o chatbot em um website como um atendente que foi disponibilizado para um comércio onde os clientes aguardam atendimento no balcão e podem interagir e se divertir com Dexter, nome dado ao chatbot.
-
 Todos os recusos utilizados nesse projeto são gratuitos através dos links abaixo:
 
 "Dialogflow é uma plataforma para construir interfaces de conversação para bots, aplicativos e dispositivos:"
